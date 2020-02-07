@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="445.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.WorkerFrameController">
+   <children>
+      <Button fx:id="buttonMyInfo" layoutX="18.0" layoutY="243.0" mnemonicParsing="false" prefHeight="59.0" prefWidth="136.0" text="My Info" />
+      <Button fx:id="buttonDirectorContact" layoutX="18.0" layoutY="338.0" mnemonicParsing="false" prefHeight="59.0" prefWidth="136.0" text="Directror Contact" />
+      <Label fx:id="labelLoggedAs" alignment="CENTER" layoutX="18.0" layoutY="44.0" prefHeight="59.0" prefWidth="136.0" text="Logged As" />
+      <Label fx:id="labelLogin" alignment="CENTER" layoutX="18.0" layoutY="135.0" prefHeight="59.0" prefWidth="136.0" text="My Login" />
+      <TextArea fx:id="textAreaOutcome" layoutX="171.0" layoutY="18.0" prefHeight="405.0" prefWidth="406.0" />
+   </children>
+</AnchorPane>
