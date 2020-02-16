@@ -26,18 +26,18 @@ Aplikacja bazodanowa dla sieci fastfood'ów "Polskie Smaki", będącej wieloosob
 ** właścicil firmy
 
 ## Funkcjonalność
-Każdy użytkownik musi się zaologować
+Każdy użytkownik musi się zalogować
 ## Funkcjonalność pracownika
-* Zobaczenie swojej wypłaty 
-* Liczby przepracowanych godzin 
-* Liczba przyznanego urlopu
+* Sprawdzenie swojej wypłaty/etatu
+* Wgląd na dane na swój temat przechowywane w bazie
 * Dane kontaktowe kierownika działu
 
 ## Funkcjonalność kierownika działu
 * Zmiana pensji pracownika
-* Bonusy świąteczne dla pracowników przy określonym budżecie
+* Bonusy świąteczne dla pracowników przy określonym budżecie (wykorzystano tranzajcję)
 * Zatrudnienie\zwolnienie pracownika
 * Dodanie\usunięcie\zmiana usług
+
 
 ## Właściciel
 * Te same uprawnienia co kierownik działu
