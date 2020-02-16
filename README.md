@@ -27,10 +27,16 @@ Aplikacja bazodanowa dla sieci fastfood'ów "Polskie Smaki", będącej wieloosob
 
 ## Funkcjonalność
 Każdy użytkownik musi się zalogować
+
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/1.png" alt="drawing" height=350px/> 
+
 ## Funkcjonalność pracownika
 * Sprawdzenie swojej wypłaty/etatu
 * Wgląd na dane na swój temat przechowywane w bazie
 * Dane kontaktowe kierownika działu
+
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/2.png" alt="drawing" height=350px/> 
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/3.png" alt="drawing" height=350px/> 
 
 ## Funkcjonalność kierownika działu
 * Zmiana pensji pracownika
@@ -38,11 +44,18 @@ Każdy użytkownik musi się zalogować
 * Zatrudnienie\zwolnienie pracownika
 * Dodanie\usunięcie\zmiana usług
 
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/4.png" alt="drawing" height=350px/> 
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/5.png" alt="drawing" height=350px/> 
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/6.png" alt="drawing" height=350px/> 
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/7.png" alt="drawing" height=350px/> 
 
 ## Właściciel
 * Te same uprawnienia co kierownik działu
 * Zmiana pensji kierownika
 * Zwolnienie\zatrudnienie kierownika
+* Obsługa backupu
+
+<img src="https://github.com/KalinaMichal/Fast_food_PolskieSmaki/blob/master/queries%20i%20baza%20danych/obrazki/8.png" alt="drawing" height=350px/> 
 
 ### Wykorzystane technologie
 
